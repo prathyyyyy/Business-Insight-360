@@ -6,7 +6,7 @@
   This power Bi project is to implement Atliq Hardware , this project main motive is to give useful insights to stakeholders provide data driven decisions in fields like sales , finance , marketing , block chain , executive view and this project data contains 4 million+ data of atliq hardware which contains products , customer details , amount , discount , etc.
   
 ## Project workflow 
-  - [Report] - []
+  * [Report] - [https://github.com/prathyyyyy/Business-Insight-360/blob/main/Report.pdf]
 
 ## Project tasks : 
 
