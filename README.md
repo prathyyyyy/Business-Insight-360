@@ -7,6 +7,13 @@
   
 ## Project workflow 
   * [Report] - [https://github.com/prathyyyyy/Business-Insight-360/blob/main/Report.pdf]
+  
+  
+## Project goals : 
+1. Optimize dashboard and report.
+2. Give more insights to stakeholder.
+3. Provide full fledged data analytic report to stakeholder.
+4. By report stakeholder can make data driven decision , make high profit , avoid overusage of budget , stocks , resources ,etc.
 
 ## Project tasks : 
 
@@ -17,4 +24,6 @@
 4. By use of DAX , created new useful columns . 
 5. Created clean Dashboard .
 6. Optimize dashboard performance and created report .
+
+
 
